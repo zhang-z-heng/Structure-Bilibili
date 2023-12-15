@@ -1,8 +1,0 @@
-﻿  test01.cpp
-C:\Users\Utente\source\repos\test1\test1\test01.cpp(39,2): error C2143: 语法错误: 缺少“;”(在“user-defined literal”的前面)
-C:\Users\Utente\source\repos\test1\test1\test01.cpp(39,2): error C2059: 语法错误:“user-defined literal”
-C:\Users\Utente\source\repos\test1\test1\test01.cpp(39,5): error C2143: 语法错误: 缺少“;”(在“{”的前面)
-C:\Users\Utente\source\repos\test1\test1\test01.cpp(39,5): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
-  test02.cpp
-C:\Users\Utente\source\repos\test1\test1\test02.cpp(20,13): warning C4326: “main”的返回类型应为“int”而非“void”
-  正在生成代码...
